@@ -1,13 +1,13 @@
 {
-  "author": "Maciej Małecki <maciej.malecki@notimplemented.org>",
-  "name": "travis-ci-node.js-example",
-  "description": "An example node.js project that uses vows and travis-ci.org for continuous integration",
+  "author": "ds26gte",
+  "name": "node_js-example",
+  "description": "descriptive text",
   "version": "0.0.0",
-  "homepage": "http://travis-ci.org/#!/travis-ci/travis-ci-node.js-example",
+  "homepage": "home pg",
   "main": "./lib/serious-calculations",
   "repository": {
     "type": "git",
-    "url": "git://github.com/travis-ci/travis-ci-node.js-example.git"
+    "url": "git://github.com/ds26gte/node_js-example.git"
   },
   "scripts": {
     "test": "vows test/*.js"

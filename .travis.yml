@@ -1,5 +1,8 @@
 language: node_js
 
+node_js:
+  - "22.5.1"
+
 script:
   - echo "hello world"
   - npm install
